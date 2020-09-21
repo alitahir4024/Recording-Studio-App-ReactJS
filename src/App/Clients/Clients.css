@@ -1,0 +1,92 @@
+.section{
+    display: grid;
+    grid-template-columns: 0.99fr;
+    grid-template-rows: 10vh 0.70fr;
+    align-content: space-around;
+    justify-content: space-evenly;
+    background-color: #23232C;
+}
+
+.section>h1{
+    font-weight: bold;
+    font-size: 2.3rem;
+    justify-self: center;
+    color: white;
+    padding-top: 5vh;
+}
+
+.clients{
+    display: grid;
+    grid-template-columns: repeat(4,18vw);
+    grid-template-rows: 0.70fr;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+
+.clients>div{
+    position: relative;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.clients>div::after{
+    content: '';
+    position: absolute;
+    background-color: #23232C;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.clients>div:hover::after{
+    opacity: 0.8;
+    visibility: visible;
+}
+
+.clients>div::before{
+    position: absolute;
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+    transform: rotate(-90deg);
+    transition: all 0.5s;
+    z-index: 3;
+}
+
+.clients>div:nth-child(1)::before{
+    content: 'Tina Montana';
+    left: -9vw;
+    bottom: 12vh;
+}
+
+.clients>div:nth-child(2)::before{
+    content: "Kenny Rodman";
+    left: -10.5vw;
+    bottom: 15vh;
+}
+
+.clients>div:nth-child(3)::before{
+    content: 'Hal Wesley';
+    left: -7.8vw;
+    bottom: 10vh;
+}
+
+.clients>div:nth-child(4)::before{
+    content: 'Black Lance';
+    left: -8vw;
+    bottom: 11vh;
+}
+
+.clients>div:hover::before{
+    transform: rotate(0deg);
+    bottom: 0;
+    left: 0;
+    color: #DC2751;
+}
+
+.clients>div>img{
+    height: 100%;
+    width: 100%;
+}

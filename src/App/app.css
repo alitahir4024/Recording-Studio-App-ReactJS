@@ -1,0 +1,30 @@
+@import "./NavBar/NavBar.css";
+@import "./LandingPage/LandingPage.css";
+@import "./Services/Services.css";
+@import "./WhyUs/WhyUs.css";
+@import "./Animation/Animation.css";
+@import "./ArtistAnimation/ArtistAnimation.css";
+@import "./Clients/Clients.css";
+@import "./Footer/Footer.css";
+
+/* blue-color:#23232C; */
+
+/* pink-color:#DC2751; */
+
+*,body{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    outline: none;
+    color: inherit;
+    scroll-behavior: smooth;
+    transition: all 0.5s;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 13vh 100vh 110vh 40vh 110vh 25vh 80vh 30vh;
+}

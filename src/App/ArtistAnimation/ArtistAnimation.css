@@ -1,0 +1,32 @@
+.artist-animation{
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+
+.artist-animation>ul{
+    height: 100%;
+    width: 130%;
+    position: absolute;
+    display: flex;
+    transition: all 0.5s;
+    animation: ArtistAnimation 20s infinite linear;
+}
+
+@keyframes ArtistAnimation{
+    from{
+        left: -130%;
+    }
+    to{
+        left: 130%;
+    }
+}
+
+.artist-animation>ul:nth-child(2){
+    animation-delay: 10s;
+}
+
+.artist-animation>ul>li>img{
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,47 @@
+section{
+    background-image: url('../img/bg1.jpg');
+    background-size: 100% 100%;
+    display: grid;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+
+.landing-page-text{
+    height: 50vh;
+    display: grid;
+    align-content: space-around;
+    justify-content: space-evenly;
+    margin-left: -50vw;
+}
+
+.landing-page-text>h1{
+    font-weight: bolder;
+    font-size: 5rem;
+    color: white;
+}
+
+.landing-page-text>p{
+    font-weight: normal;
+    font-size: 1rem;
+    color: #888585;
+    line-height: 4vh;
+}
+
+.g-btn{
+    height: 7vh;
+    width: 12vw;
+    border-radius: 50px;
+    background-color: #DC2751;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: none;
+    color: white;
+}
+
+.g-btn:hover{
+    transition: all 0.5s;
+    border: 3px solid #DC2751;
+    color: #888585;
+    cursor: pointer;
+    background-color: transparent;
+}

@@ -1,0 +1,30 @@
+.animation{
+    position: relative;
+    background-color: #DC2751;
+    transition: all 0.5s;
+    overflow: hidden;
+}
+
+.animation>ul{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all 0.5s;
+    animation: run 10s infinite linear;
+}
+
+@keyframes run{
+    from{
+        left: -100%;
+    }
+    to{
+        left: 120%;
+    }
+}
+
+.animation>ul:nth-child(2){
+    animation-delay: 5s;
+}

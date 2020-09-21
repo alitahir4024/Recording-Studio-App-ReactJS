@@ -1,0 +1,114 @@
+.why{
+    position: relative;
+    display: grid;
+    grid-template-columns: 0.99fr;
+    grid-template-rows: 10vh 0.90fr;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+
+.why>h1{
+    position: relative;
+    justify-self: center;
+    padding-top: 3vh;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #323232;
+    cursor: pointer;
+}
+
+.why>h1::after{
+    content: '?';
+    position: absolute;
+    right: 100%;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #DC2751;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.why>h1:hover::after{
+    right: -2vw;
+    opacity: 1;
+    visibility: visible;
+}
+
+.guitar-img{
+    position: absolute;
+    top: 25%;
+    transition: all 0.5s;
+    animation: move 1s infinite linear alternate;
+}
+
+@keyframes move{
+    from{
+        left: 40%;
+    }
+    to{
+        left: 46%;
+    }
+}
+
+.wave-img{
+    position: absolute;
+    top: 26%;
+    left: 23%;
+    transition: all 0.5s;
+    animation: sound 1s infinite linear alternate-reverse;
+}
+
+@keyframes sound{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+.why>div{
+    display: grid;
+    grid-template-columns: 23vw auto 23vw;
+    grid-template-rows: 0.99fr;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+
+.why>div>ul,.why>div>ol{
+    display: grid;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+
+.why>div>ul>li,.why>div>ol>li{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 0.99fr;
+    align-content: space-around;
+    justify-content: space-evenly;
+    height: 20vh;
+}
+
+.why>div>ul>li>h6,.why>div>ol>li>h6{
+    font-weight: normal;
+    font-size: 1.3rem;
+    color: #323232;
+    display: grid;
+    align-content: space-around;
+    justify-content: space-evenly;
+    padding-left: 1vw;
+}
+
+.why>div>ul>li>h6>span,.why>div>ol>li>h6>span{
+    font-weight: lighter;
+    font-size: 0.9rem;
+    color: #757575;
+    line-height: 3vh;
+}
+
+.why>button{
+    justify-self: center;
+}
