@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Recording-Studio-App-ReactJS/static/css/main.cae8dc27.chunk.css",
+    "main.js": "/Recording-Studio-App-ReactJS/static/js/main.106fc724.chunk.js",
+    "main.js.map": "/Recording-Studio-App-ReactJS/static/js/main.106fc724.chunk.js.map",
+    "runtime-main.js": "/Recording-Studio-App-ReactJS/static/js/runtime-main.55fa80bd.js",
+    "runtime-main.js.map": "/Recording-Studio-App-ReactJS/static/js/runtime-main.55fa80bd.js.map",
+    "static/js/2.0c921fb0.chunk.js": "/Recording-Studio-App-ReactJS/static/js/2.0c921fb0.chunk.js",
+    "static/js/2.0c921fb0.chunk.js.map": "/Recording-Studio-App-ReactJS/static/js/2.0c921fb0.chunk.js.map",
+    "index.html": "/Recording-Studio-App-ReactJS/index.html",
+    "precache-manifest.b2adee65a8f2d9fc3c69f9acc711c379.js": "/Recording-Studio-App-ReactJS/precache-manifest.b2adee65a8f2d9fc3c69f9acc711c379.js",
+    "service-worker.js": "/Recording-Studio-App-ReactJS/service-worker.js",
+    "static/css/main.cae8dc27.chunk.css.map": "/Recording-Studio-App-ReactJS/static/css/main.cae8dc27.chunk.css.map",
+    "static/js/2.0c921fb0.chunk.js.LICENSE.txt": "/Recording-Studio-App-ReactJS/static/js/2.0c921fb0.chunk.js.LICENSE.txt",
+    "static/media/about-guitar.png": "/Recording-Studio-App-ReactJS/static/media/about-guitar.8ae59f92.png",
+    "static/media/about-monitors.png": "/Recording-Studio-App-ReactJS/static/media/about-monitors.23ef8835.png",
+    "static/media/about-waves.png": "/Recording-Studio-App-ReactJS/static/media/about-waves.8db26476.png",
+    "static/media/artist1.jpg": "/Recording-Studio-App-ReactJS/static/media/artist1.7b119b96.jpg",
+    "static/media/artist2.jpg": "/Recording-Studio-App-ReactJS/static/media/artist2.86ffc8fb.jpg",
+    "static/media/artist3.jpg": "/Recording-Studio-App-ReactJS/static/media/artist3.96f479b4.jpg",
+    "static/media/artist4.jpg": "/Recording-Studio-App-ReactJS/static/media/artist4.6b37d29d.jpg",
+    "static/media/app.css": "/Recording-Studio-App-ReactJS/static/media/footer-bg2.ffa2efc1.jpg",
+    "static/media/gallery_01.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_01.70d69393.jpg",
+    "static/media/gallery_02.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_02.cc4d2632.jpg",
+    "static/media/gallery_03.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_03.f8cfe71b.jpg",
+    "static/media/gallery_04.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_04.60b2f719.jpg",
+    "static/media/gallery_05.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_05.2b7dde49.jpg",
+    "static/media/gallery_06.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_06.ef713025.jpg",
+    "static/media/gallery_07.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_07.7f33668c.jpg",
+    "static/media/gallery_08.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_08.9338c506.jpg",
+    "static/media/gallery_09.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_09.7e6c7855.jpg",
+    "static/media/gallery_10.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_10.0fb12d4f.jpg",
+    "static/media/gallery_11.jpg": "/Recording-Studio-App-ReactJS/static/media/gallery_11.b9a085d0.jpg",
+    "static/media/serv_01-750x525.jpg": "/Recording-Studio-App-ReactJS/static/media/serv_01-750x525.2e32d5a1.jpg",
+    "static/media/serv_02-750x525.jpg": "/Recording-Studio-App-ReactJS/static/media/serv_02-750x525.433a3aa5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55fa80bd.js",
+    "static/js/2.0c921fb0.chunk.js",
+    "static/css/main.cae8dc27.chunk.css",
+    "static/js/main.106fc724.chunk.js"
+  ]
+}
