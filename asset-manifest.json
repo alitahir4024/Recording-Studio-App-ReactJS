@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Recording-Studio-App-ReactJS/static/css/main.cae8dc27.chunk.css",
-    "main.js": "/Recording-Studio-App-ReactJS/static/js/main.106fc724.chunk.js",
-    "main.js.map": "/Recording-Studio-App-ReactJS/static/js/main.106fc724.chunk.js.map",
+    "main.js": "/Recording-Studio-App-ReactJS/static/js/main.72704dd1.chunk.js",
+    "main.js.map": "/Recording-Studio-App-ReactJS/static/js/main.72704dd1.chunk.js.map",
     "runtime-main.js": "/Recording-Studio-App-ReactJS/static/js/runtime-main.55fa80bd.js",
     "runtime-main.js.map": "/Recording-Studio-App-ReactJS/static/js/runtime-main.55fa80bd.js.map",
     "static/js/2.0c921fb0.chunk.js": "/Recording-Studio-App-ReactJS/static/js/2.0c921fb0.chunk.js",
     "static/js/2.0c921fb0.chunk.js.map": "/Recording-Studio-App-ReactJS/static/js/2.0c921fb0.chunk.js.map",
     "index.html": "/Recording-Studio-App-ReactJS/index.html",
-    "precache-manifest.dc67987bf65678dbed00987343d89259.js": "/Recording-Studio-App-ReactJS/precache-manifest.dc67987bf65678dbed00987343d89259.js",
+    "precache-manifest.16d93a1279728458ef684712f64c5ab7.js": "/Recording-Studio-App-ReactJS/precache-manifest.16d93a1279728458ef684712f64c5ab7.js",
     "service-worker.js": "/Recording-Studio-App-ReactJS/service-worker.js",
     "static/css/main.cae8dc27.chunk.css.map": "/Recording-Studio-App-ReactJS/static/css/main.cae8dc27.chunk.css.map",
     "static/js/2.0c921fb0.chunk.js.LICENSE.txt": "/Recording-Studio-App-ReactJS/static/js/2.0c921fb0.chunk.js.LICENSE.txt",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.55fa80bd.js",
     "static/js/2.0c921fb0.chunk.js",
     "static/css/main.cae8dc27.chunk.css",
-    "static/js/main.106fc724.chunk.js"
+    "static/js/main.72704dd1.chunk.js"
   ]
 }

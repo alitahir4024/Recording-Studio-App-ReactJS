@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e176722ff7217495aef3ca08479a1ab3",
+    "revision": "7d1e81e9c2c4b5084a4a7e91b52965b8",
     "url": "/Recording-Studio-App-ReactJS/index.html"
   },
   {
-    "revision": "c7662d979bca076e3757",
+    "revision": "f91f4c7ebf6bd209697a",
     "url": "/Recording-Studio-App-ReactJS/static/css/main.cae8dc27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Recording-Studio-App-ReactJS/static/js/2.0c921fb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7662d979bca076e3757",
-    "url": "/Recording-Studio-App-ReactJS/static/js/main.106fc724.chunk.js"
+    "revision": "f91f4c7ebf6bd209697a",
+    "url": "/Recording-Studio-App-ReactJS/static/js/main.72704dd1.chunk.js"
   },
   {
     "revision": "10909e77def66a0c57c9",
