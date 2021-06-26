@@ -1,7 +1,7 @@
 {
   "name": "resume-app",
   "version": "0.1.0",
-  "homepage": "http://Ali-Tahir4024.github.io/Recording-Studio-App-ReactJS",
+  "homepage": "http://alitahir4024.github.io/Recording-Studio-App-ReactJS",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
