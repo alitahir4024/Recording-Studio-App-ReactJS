@@ -17,4 +17,4 @@ Recording studio website template developed using React JS for a powerful UI.
 
 ## Project Preview:
 
-<a href="https://ali-tahir4024.github.io/Recording-Studio-App-ReactJS/">Recording Studio App</a>
+<a href="https://alitahir4024.github.io/Recording-Studio-App-ReactJS/">Recording Studio App</a>
